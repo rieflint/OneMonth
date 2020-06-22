@@ -1,0 +1,37 @@
+body {
+  background: url(../images/piglet-cake.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+#container {
+  background: black;
+  width: 424px;
+  color: white;
+}
+
+h1 {
+  font-size: 80px;
+  margin-left: 20px;
+}
+
+h2 {
+  color: black;
+  background: #75c1f6;
+  margin-left: 20px;
+  margin-right: 20px;
+  border-radius: 5px;
+  padding-left: auto auto;
+}
+
+p {
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: #75c1f6;
+}
